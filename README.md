@@ -9,3 +9,5 @@ This project includes solutions to four classic problems implemented in the OCam
 3. Merge Sorted Lists of Pairs — merging two sorted lists of pairs based on their keys.
 
 4. Find Word in the Text — searching for a given word in a text string.
+
+5. Currency converter — OCaml program that converts between major currencies using predefined exchange rates.
